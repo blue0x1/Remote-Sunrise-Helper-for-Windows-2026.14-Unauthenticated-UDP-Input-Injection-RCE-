@@ -2,7 +2,7 @@
 Remote Sunrise Helper for Windows 2026.14 - Unauthenticated UDP Input Injection (RCE)
 
 ```
-#!/usr/bin/env python3
+ 
 # Exploit Title: Remote Sunrise Helper for Windows 2026.14 - Unauthenticated UDP Input Injection (RCE)
 # Date: 2026-04-20
 # Exploit Author: Chokri Hammedi
