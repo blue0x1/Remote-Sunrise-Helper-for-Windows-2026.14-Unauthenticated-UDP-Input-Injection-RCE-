@@ -13,7 +13,9 @@ Remote Sunrise Helper for Windows 2026.14 - Unauthenticated UDP Input Injection 
 #
 # Identification:
 # nmap -p- -T4 <target> --script ssl-cert
-# Look for SSL cert with subject: CN=SecureHTTPServer/O=Evgeny Cherpak/C=US
+# Look for SSL cert with subject: CN=SecureHTTPServer/O=Evgeny Cherpak/C=US # for the new versions is: 
+# ssl-cert: Subject: commonName=SecureHTTPServer/organizationName=Remote Sunrise LTD/countryName=US
+# Issuer: commonName=SecureHTTPServer/organizationName=Remote Sunrise LTD/countryName=US
 ```
 
 ## syntax 
